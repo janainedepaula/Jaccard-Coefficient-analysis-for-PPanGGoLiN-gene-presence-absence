@@ -5,7 +5,7 @@ This repository provides an R script to compute the Jaccard similarity coefficie
 
 The script calculates: 1. A Jaccard similarity matrix; 2. a distance matrix (1 – Jaccard) and 3. a hierarchical clustering dendrogram based on gene content similarity.
 
-# This approach is particularly useful for comparative genomics, pangenome structure analysis, and studying CDS sharing patterns among bacterial genomes.
+This approach is particularly useful for comparative genomics, pangenome structure analysis, and studying CDS sharing patterns among bacterial genomes.
 
 
 # Input Requirements:
